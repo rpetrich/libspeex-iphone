@@ -1,0 +1,3 @@
+Builds libspeex 1.2rc1 with DHowett's theos build system so it can be used on iOS.
+
+ARM assembly optimizations seem to dereference NULL, so for now they're disabled.
