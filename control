@@ -1,0 +1,9 @@
+Package: libspeex
+Priority: optional
+Section: Multimedia
+Architecture: iphoneos-arm
+Version: 1.2~rc1
+Description: A Free Codec For Free Speech
+Name: Speex
+Author: Jean-Marc Valin
+Maintainer: Ryan Petrich <rpetrich+speex@gmail.com>

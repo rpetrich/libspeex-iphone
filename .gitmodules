@@ -1,0 +1,6 @@
+[submodule "framework"]
+	path = framework
+	url = git://github.com/rpetrich/theos.git
+[submodule "speex"]
+	path = speex
+	url = http://git.xiph.org/speex.git
