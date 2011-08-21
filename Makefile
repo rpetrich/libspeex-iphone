@@ -1,4 +1,7 @@
 SOURCE_PATH = speex/libspeex/
+ARCHS = armv7 armv6
+OPTFLAG = -Os
+TARGET_IPHONEOS_DEPLOYMENT_VERSION = 3.0
 GO_EASY_ON_ME=1
 
 LIBRARY_NAME = libspeex
